@@ -11,3 +11,7 @@ paperurl: 'http://yourwebsite.com/files/paper-ethical-llms.pdf'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ethical-llms.bib'
 citation: 'John Smith, et al. (2025). "Ethical Considerations in Deploying LLMs for Real-World Applications." <i>Advances in Neural Information Processing Systems 37 (NeurIPS 2024)</i>.'
 ---
+
+## Code
+
+Not open-sourced: no public code repository has been released for this paper.
